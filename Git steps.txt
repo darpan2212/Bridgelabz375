@@ -6,4 +6,5 @@ password  :-   generated personal access token from github
 1) git status
 2) git add
 3) git commit
+4) git pull
 4) git push
